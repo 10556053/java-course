@@ -1,0 +1,14 @@
+[
+    {
+        "type":"USD",
+        "balance":1000.0
+    },
+    {
+        "type":"CNY",
+        "balance":1000.0
+    },
+    {
+        "type":"JPY",
+        "balance":1000.0
+    }
+]
